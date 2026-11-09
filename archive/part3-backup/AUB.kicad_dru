@@ -1,0 +1,38 @@
+(version 1)
+# AUB custom rules - kept here so they survive KiCad rewriting AUB.kicad_pro
+
+(rule "USB 90R differential pairs: width"
+	(condition "A.inDiffPair('/USB*')")
+	(constraint track_width (min 0.15mm) (opt 0.3mm) (max 0.35mm)))
+
+(rule "USB intra-pair clearance"
+	(condition "A.inDiffPair('/USB*') && B.inDiffPair('/USB*')")
+	(constraint clearance (min 0.15mm)))
+
+(rule "VBUS current"
+	(condition "A.NetName == 'VBUS' || A.NetName == 'VBUS_DN'")
+	(constraint track_width (min 0.25mm)))
+
+(rule "JLC 4-layer minimum via"
+	(constraint via_diameter (min 0.45mm))
+	(constraint hole_size (min 0.3mm)))
+
+(rule "USB_UP P/N skew"
+	(condition "A.inDiffPair('/USB_UP')")
+	(constraint skew (max 1.5mm)))
+
+(rule "USB1 P/N skew"
+	(condition "A.inDiffPair('/USB1')")
+	(constraint skew (max 1.5mm)))
+
+(rule "USB2 P/N skew"
+	(condition "A.inDiffPair('/USB2')")
+	(constraint skew (max 1.5mm)))
+
+(rule "USB3 P/N skew"
+	(condition "A.inDiffPair('/USB3')")
+	(constraint skew (max 1.5mm)))
+
+(rule "USB4 P/N skew"
+	(condition "A.inDiffPair('/USB4')")
+	(constraint skew (max 1.5mm)))
