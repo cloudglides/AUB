@@ -98,7 +98,8 @@ everything is open source, feel free to take a look, modify it or build your own
 
 
 ### Zine
-<img width="1587" height="2245" alt="AUB (1)" src="https://github.com/user-attachments/assets/cf1d1d43-9c01-4d94-9746-0c5bcf3a6205" />
+<img width="1587" height="2245" alt="AUB (2)" src="https://github.com/user-attachments/assets/ee6f8385-bdaa-46f7-a1bd-363eb4544cdf" />
+
 
 
 
