@@ -4,7 +4,7 @@ author: Cloudglides
 description: Another USB Hub!!
 ---
 
-### TOTAL TIME: 32 HOURS
+### TOTAL TIME: 36 HOURS
 
 ## Day 1 | USB hub schematic | November 7th | 7 hours
 
@@ -69,7 +69,7 @@ heres what the board looks like so far!
 
 definitely still a lot of work left to do. need to clean up the placement, think about the routing and make sure the USB data lines and power connections get enough attention.
 
-## Day 3 | PCB routing progress | November 9th | 10 hours
+## Day 3 | PCB routing progress | November 9th | 6 hours
 
 spent some more time on the PCB today and started working on the actual routing!
 
@@ -86,8 +86,45 @@ heres where the PCB is at currently!
 
 slowly getting there :p
 
+## Day 3 | PCB routing progress | 4 hours
+
+spent some more time on the PCB again
+
+did cleaning up, removed unconnected traces, ran DRC fed that to chatgpt to know what the hell is going on and fixed thingies
+...i dont really have much to say apart from my device lags as hell while during all this
+
+<img width="555" height="502" alt="image" src="https://github.com/user-attachments/assets/94f8f394-0693-4491-8b83-8ef79428df97" />
+also not sure why this looks funny, tryna fix it from a while
+
+
+slowly getting there :p
+
 ## Some Day | 2h
 
 worked on the github repo, zine and readme :p
 
 <img width="1587" height="2245" alt="AUB (1)" src="https://github.com/user-attachments/assets/28c03436-d895-4e4f-8755-75446505a032" />
+
+## DAY 4 | NOV 10 | 2 hours
+
+okay so uh i got rejected for not having a case, made a case in freecad
+
+<img width="1600" height="1100" alt="image" src="https://github.com/user-attachments/assets/32f25224-6909-4ffb-bb7a-b2cc3b697b32" />
+
+<img width="1600" height="1100" alt="image" src="https://github.com/user-attachments/assets/33296f58-65e7-4dcb-b3e3-5a99bf111ec8" />
+
+made this :p took me a while becuase eh linux nd i cant use fusion, would be sm better but yeah kthxbai
+
+## Day 4 | nov 10 | back again | 4h
+
+spent some more time with the cad, itfeels a bit rushed but i need to submit for haven :p
+
+<img width="1600" height="1100" alt="image" src="https://github.com/user-attachments/assets/3829ac81-8d03-476c-bc90-3a270219cafa" />
+
+<img width="1600" height="1100" alt="image" src="https://github.com/user-attachments/assets/99a4101c-3923-4bec-8fe4-158848f5ff75" />
+
+
+these render took me a while, had to use some shady online website since freecad doesnt really got decent renders, also it took me a while because i used to use onshape but freecad got different system and took me a while to get used
+
+
+
