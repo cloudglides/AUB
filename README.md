@@ -96,6 +96,13 @@ everything is open source, feel free to take a look, modify it or build your own
 <img width="935" height="627" alt="image" src="https://github.com/user-attachments/assets/91cb506c-03bd-481d-99fe-a4032e4b8ebe" />
 
 
+### Case
+<img width="1600" height="1100" alt="pcb_exploded" src="https://github.com/user-attachments/assets/7694b3ef-3d72-4df7-a278-f1753e8ef3fe" />
+<img width="1600" height="1100" alt="empty_exploded" src="https://github.com/user-attachments/assets/26b4cb18-0109-41fd-a423-7e7da723bfcb" />
+<img width="1600" height="1100" alt="tray_top" src="https://github.com/user-attachments/assets/d0a2f345-37f7-4405-b63c-254cc5220014" />
+
+
+
 
 ### Zine
 <img width="1587" height="2245" alt="AUB (2)" src="https://github.com/user-attachments/assets/ee6f8385-bdaa-46f7-a1bd-363eb4544cdf" />
